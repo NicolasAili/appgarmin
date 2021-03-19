@@ -9,35 +9,36 @@
         <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectView.mc" id="5" lineNum="17" pc="268435521" symbol="onShow"/>
         <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectView.mc" id="6" lineNum="21" pc="268435526" symbol="onUpdate"/>
         <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectView.mc" id="6" lineNum="23" pc="268435530" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectView.mc" id="7" lineNum="29" pc="268435551" symbol="onHide"/>
-        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectMenuDelegate.mc" id="9" lineNum="6" pc="268435556" symbol="initialize"/>
-        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectMenuDelegate.mc" id="9" lineNum="7" pc="268435560" symbol="initialize"/>
-        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectMenuDelegate.mc" id="10" lineNum="10" pc="268435579" symbol="onMenuItem"/>
-        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectMenuDelegate.mc" id="10" lineNum="11" pc="268435583" symbol="onMenuItem"/>
-        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectMenuDelegate.mc" id="10" lineNum="12" pc="268435594" symbol="onMenuItem"/>
-        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectMenuDelegate.mc" id="10" lineNum="13" pc="268435618" symbol="onMenuItem"/>
-        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectMenuDelegate.mc" id="10" lineNum="14" pc="268435629" symbol="onMenuItem"/>
-        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectApp.mc" id="12" lineNum="6" pc="268435654" symbol="initialize"/>
-        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectApp.mc" id="12" lineNum="7" pc="268435658" symbol="initialize"/>
-        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectApp.mc" id="13" lineNum="11" pc="268435677" symbol="onStart"/>
-        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectApp.mc" id="14" lineNum="15" pc="268435682" symbol="onStop"/>
-        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectApp.mc" id="15" lineNum="19" pc="268435687" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectApp.mc" id="15" lineNum="20" pc="268435691" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectDelegate.mc" id="17" lineNum="5" pc="268435759" symbol="initialize"/>
-        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectDelegate.mc" id="17" lineNum="6" pc="268435763" symbol="initialize"/>
-        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectDelegate.mc" id="18" lineNum="9" pc="268435782" symbol="onMenu"/>
-        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectDelegate.mc" id="18" lineNum="10" pc="268435786" symbol="onMenu"/>
-        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectDelegate.mc" id="18" lineNum="11" pc="268435870" symbol="onMenu"/>
-        <entry filename="Rez" id="24" lineNum="16" pc="268435874" symbol="MainLayout"/>
-        <entry filename="Rez" id="24" lineNum="18" pc="268435886" symbol="MainLayout"/>
-        <entry filename="Rez" id="24" lineNum="20" pc="268435899" symbol="MainLayout"/>
-        <entry filename="Rez" id="24" lineNum="21" pc="268436054" symbol="MainLayout"/>
-        <entry filename="Rez" id="24" lineNum="22" pc="268436166" symbol="MainLayout"/>
-        <entry filename="Rez" id="24" lineNum="24" pc="268436203" symbol="MainLayout"/>
-        <entry filename="Rez" id="27" lineNum="37" pc="268436231" symbol="initialize"/>
-        <entry filename="Rez" id="27" lineNum="38" pc="268436235" symbol="initialize"/>
-        <entry filename="Rez" id="27" lineNum="39" pc="268436253" symbol="initialize"/>
-        <entry filename="Rez" id="27" lineNum="40" pc="268436309" symbol="initialize"/>
+        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectView.mc" id="6" lineNum="24" pc="268435554" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectView.mc" id="6" lineNum="25" pc="268435571" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectView.mc" id="7" lineNum="32" pc="268435592" symbol="onHide"/>
+        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectMenuDelegate.mc" id="9" lineNum="6" pc="268435597" symbol="initialize"/>
+        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectMenuDelegate.mc" id="9" lineNum="7" pc="268435601" symbol="initialize"/>
+        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectMenuDelegate.mc" id="10" lineNum="10" pc="268435620" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectMenuDelegate.mc" id="10" lineNum="11" pc="268435624" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectMenuDelegate.mc" id="10" lineNum="12" pc="268435635" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectMenuDelegate.mc" id="10" lineNum="13" pc="268435659" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectMenuDelegate.mc" id="10" lineNum="14" pc="268435670" symbol="onMenuItem"/>
+        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectApp.mc" id="12" lineNum="6" pc="268435695" symbol="initialize"/>
+        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectApp.mc" id="12" lineNum="7" pc="268435699" symbol="initialize"/>
+        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectApp.mc" id="13" lineNum="11" pc="268435718" symbol="onStart"/>
+        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectApp.mc" id="14" lineNum="15" pc="268435723" symbol="onStop"/>
+        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectApp.mc" id="15" lineNum="19" pc="268435728" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectApp.mc" id="15" lineNum="20" pc="268435732" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectDelegate.mc" id="17" lineNum="5" pc="268435800" symbol="initialize"/>
+        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectDelegate.mc" id="17" lineNum="6" pc="268435804" symbol="initialize"/>
+        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectDelegate.mc" id="18" lineNum="9" pc="268435823" symbol="onMenu"/>
+        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectDelegate.mc" id="18" lineNum="10" pc="268435827" symbol="onMenu"/>
+        <entry filename="C:\\Users\\Ailiganon\\eclipse-workspace\\myapps\\appgarmin\\source\\myprojectDelegate.mc" id="18" lineNum="11" pc="268435911" symbol="onMenu"/>
+        <entry filename="Rez" id="24" lineNum="16" pc="268435915" symbol="MainLayout"/>
+        <entry filename="Rez" id="24" lineNum="18" pc="268435927" symbol="MainLayout"/>
+        <entry filename="Rez" id="24" lineNum="19" pc="268436079" symbol="MainLayout"/>
+        <entry filename="Rez" id="24" lineNum="20" pc="268436191" symbol="MainLayout"/>
+        <entry filename="Rez" id="24" lineNum="22" pc="268436231" symbol="MainLayout"/>
+        <entry filename="Rez" id="27" lineNum="35" pc="268436259" symbol="initialize"/>
+        <entry filename="Rez" id="27" lineNum="36" pc="268436263" symbol="initialize"/>
+        <entry filename="Rez" id="27" lineNum="37" pc="268436281" symbol="initialize"/>
+        <entry filename="Rez" id="27" lineNum="38" pc="268436337" symbol="initialize"/>
     </pcToLineNum>
     <symbolTable>
         <entry id="8388639" module="true" symbol="Graphics"/>
@@ -97,14 +98,14 @@
     </symbolTable>
     <localVars>
         <entry arg="true" endPc="268435521" name="dc" stackId="1" startPc="268435479"/>
-        <entry arg="true" endPc="268435551" name="dc" stackId="1" startPc="268435526"/>
-        <entry arg="true" endPc="268435654" name="item" stackId="1" startPc="268435579"/>
-        <entry arg="true" endPc="268435682" name="state" stackId="1" startPc="268435677"/>
-        <entry arg="true" endPc="268435687" name="state" stackId="1" startPc="268435682"/>
-        <entry endPc="268436230" name="rez_cmp_local_var_dc_getWidth" stackId="2" startPc="268435886"/>
-        <entry endPc="268436230" name="rez_cmp_local_text_1575600983" stackId="3" startPc="268435886"/>
-        <entry endPc="268436230" name="rez_cmp_local_bitmap_id_monkey" stackId="4" startPc="268435886"/>
-        <entry arg="true" endPc="268436231" name="dc" stackId="1" startPc="268435874"/>
+        <entry endPc="268435591" name="view" stackId="2" startPc="268435530"/>
+        <entry arg="true" endPc="268435592" name="dc" stackId="1" startPc="268435526"/>
+        <entry arg="true" endPc="268435695" name="item" stackId="1" startPc="268435620"/>
+        <entry arg="true" endPc="268435723" name="state" stackId="1" startPc="268435718"/>
+        <entry arg="true" endPc="268435728" name="state" stackId="1" startPc="268435723"/>
+        <entry endPc="268436258" name="rez_cmp_local_bitmap_id_monkey" stackId="3" startPc="268435927"/>
+        <entry endPc="268436258" name="rez_cmp_local_text_4744922942" stackId="2" startPc="268435927"/>
+        <entry arg="true" endPc="268436259" name="dc" stackId="1" startPc="268435915"/>
     </localVars>
     <annotations/>
     <dataEntryOffsetMappings>

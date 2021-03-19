@@ -20,7 +20,10 @@ class myprojectView extends WatchUi.View {
     // Update the view
     function onUpdate(dc) {
         // Call the parent onUpdate function to redraw the layout
+        var view = View.findDrawableById("TimeLabel");
+        view.setText("Holle World");
         View.onUpdate(dc);
+        
     }
 
     // Called when this View is removed from the screen. Save the
